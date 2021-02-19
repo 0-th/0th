@@ -1,10 +1,10 @@
-# Zer0th Timeline
+# 0th Timeline
 
 Welcome to my Timeline, nothing fancy here it's more like a diary where stuffs are going to be dumped because I don't want to forget them.
 
 ## Getting Started
 
-You can view the project on [Github Pages](https://zer0thx.github.io/Zer0th/) or clone this repo.
+You can view the project on [Github Pages](https://0-th.github.io/0th/) or clone this repo.
 
 ### Prerequisites
 
@@ -13,7 +13,7 @@ You can view the project on [Github Pages](https://zer0thx.github.io/Zer0th/) or
 ### Installing
 
 ```
-git clone https://github.com/Zer0thX/Zer0th.git
+git clone https://github.com/0-th/0th.git
 ```
 
 ## Built With
@@ -24,7 +24,7 @@ git clone https://github.com/Zer0thX/Zer0th.git
 
 ## Authors
 
-* [**LordGhostX, Zer0thX**](https://github.com/LordGhostX, https://github.com/Zer0thX)
+* [**LordGhostX, Zer0thX**](https://github.com/LordGhostX, https://github.com/0-th)
 
 ## License
 
